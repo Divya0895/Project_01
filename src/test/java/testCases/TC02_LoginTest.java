@@ -13,7 +13,7 @@ public class TC02_LoginTest  extends BaseClass
 	@Test(groups={"Sanity","Master"})
 	public void verify_login()
 	{
-		logger.info("****** Startign TC02_LoginTest *****");
+		logger.info("****** Starting TC02_LoginTest *****");
 		
 		try
 		{

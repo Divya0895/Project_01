@@ -11,3 +11,16 @@
 2024-09-09 10:50:45 INFO  TC04_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
 2024-09-09 10:50:51 INFO  TC05_AddToCartPageTest:14 -  Starting TC05_AddToCartPageTest 
 2024-09-09 10:50:54 INFO  TC05_AddToCartPageTest:40 -  Finished TC05_AddToCartPageTest 
+2024-09-09 17:52:01 INFO  TC01_AccountRegistrationTest:15 - *****Starting TC01_AccountRegistrationTest *****
+2024-09-09 17:52:03 INFO  TC01_AccountRegistrationTest:21 - Clicked on MyAccount link
+2024-09-09 17:52:04 INFO  TC01_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-09-09 17:52:04 INFO  TC01_AccountRegistrationTest:27 - Providing customer details...
+2024-09-09 17:52:07 INFO  TC01_AccountRegistrationTest:41 - Validating expected message..
+2024-09-09 17:52:07 INFO  TC01_AccountRegistrationTest:46 - Test passed
+2024-09-09 17:52:07 INFO  TC01_AccountRegistrationTest:55 - ***** Finished TC01_AccountRegistrationTest *****
+2024-09-09 17:52:14 INFO  TC02_LoginTest:16 - ****** Starting TC02_LoginTest *****
+2024-09-09 17:52:18 INFO  TC02_LoginTest:41 - ****** Finished TC02_LoginTest *****
+2024-09-09 17:52:23 INFO  TC04_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2024-09-09 17:52:24 INFO  TC04_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2024-09-09 17:52:30 INFO  TC05_AddToCartPageTest:14 -  Starting TC05_AddToCartPageTest 
+2024-09-09 17:52:34 INFO  TC05_AddToCartPageTest:40 -  Finished TC05_AddToCartPageTest 
