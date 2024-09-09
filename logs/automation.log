@@ -1,0 +1,13 @@
+2024-09-09 10:50:18 INFO  TC01_AccountRegistrationTest:15 - *****Starting TC01_AccountRegistrationTest *****
+2024-09-09 10:50:19 INFO  TC01_AccountRegistrationTest:21 - Clicked on MyAccount link
+2024-09-09 10:50:20 INFO  TC01_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-09-09 10:50:20 INFO  TC01_AccountRegistrationTest:27 - Providing customer details...
+2024-09-09 10:50:24 INFO  TC01_AccountRegistrationTest:41 - Validating expected message..
+2024-09-09 10:50:24 INFO  TC01_AccountRegistrationTest:46 - Test passed
+2024-09-09 10:50:24 INFO  TC01_AccountRegistrationTest:55 - ***** Finished TC01_AccountRegistrationTest *****
+2024-09-09 10:50:31 INFO  TC02_LoginTest:16 - ****** Startign TC02_LoginTest *****
+2024-09-09 10:50:36 INFO  TC02_LoginTest:41 - ****** Finished TC02_LoginTest *****
+2024-09-09 10:50:42 INFO  TC04_SearchProductTest:14 -  Starting TC_004_SearchProductTest 
+2024-09-09 10:50:45 INFO  TC04_SearchProductTest:34 -  Finished TC_004_SearchProductTest 
+2024-09-09 10:50:51 INFO  TC05_AddToCartPageTest:14 -  Starting TC05_AddToCartPageTest 
+2024-09-09 10:50:54 INFO  TC05_AddToCartPageTest:40 -  Finished TC05_AddToCartPageTest 
